@@ -24,7 +24,7 @@ Mac、Linuxでは動作しません。
 ③スマホでブラウザが開き、表示されます。お好みのレイアウトを選択してください。  
 ④レバーサはデフォルトで「前位置」、マスコンはデフォルトでB6位置に設定されています。  
 ⑤ボタンを押すとJRETSで割り当ててあるキーが押されます。  
-⑥TAP1、TAP2はTrainAnnouncePlayer(https://github.com/Goma-Abura-lab/TrainAnnouncePlayer)において放送を再生するためのボタンです。  
+⑥TAP1、TAP2はTrainAnnouncePlayer(https://github.com/Goma-Abura-lab/TrainAnnouncePlayer) において放送を再生するためのボタンです。  
 TAP1が「0」キー(通常再生用)、TAP2が「TAB」キー(駅メロ用)となっております。  
 ぜひリアルな放送ができるTrainAnnouncePlayerと合わせてJRETSをお楽しみください！  
 ⑦終了するにはJRETS_VirtualMascon.exeを終了し、スマホ側でブラウザを閉じてください。  
