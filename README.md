@@ -1,6 +1,6 @@
 ############## JRETS_VirtualMascon v0.1 ReadMe ##############  
 
-<img width="3168" height="1344" alt="JRETS VirtualMascon_real" src="https://github.com/user-attachments/assets/d9a7bf0b-c6a2-4bc4-a675-72f5e365b81a" />
+<img width="3168" height="1344" alt="JRETS VirtualMascon_real" src="https://github.com/user-attachments/assets/a36d2ffe-447f-4a2d-9877-ccf053d3f6c4" />
 
   
 1　はじめに  
