@@ -16,6 +16,7 @@ Mac、Linuxでは動作しません。
 スマホ側ではブラウザが開くため、スマホ側でのアプリのインストール・追加の設定は不要です。  
 本アプリでは、主にE233系のマスコン・レバーサをモデルにしています。(こんな感じです)
 <img width="1920" height="1080" alt="スクリーンショット 2026-04-12 111541" src="https://github.com/user-attachments/assets/3582ae7a-e7db-4a5b-a0ab-5b875a8d2d8e" />
+<img width="1920" height="1080" alt="スクリーンショット 2026-04-17 101638" src="https://github.com/user-attachments/assets/0bc4dfcd-4a1e-4d5c-b13a-d61117193d64" />
 
   
 3　使用方法  
